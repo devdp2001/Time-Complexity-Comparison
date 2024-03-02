@@ -1,0 +1,14 @@
+READ ME
+
+
+Instructions to run code:
+Type make to compile
+
+To run main file:
+Type ./main <inputfile>.txt
+
+To run experimental file:
+Type ./experiment
+
+To clean compiled artifacts:
+Type make clean
